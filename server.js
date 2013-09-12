@@ -1,6 +1,6 @@
 var express = require('express'),
     http    = require('http'),
-    Swarm = require('./Swarm/app.js');
+    Swarm = require('./apps/Swarm/app.js');
 
 var app = express();
 
