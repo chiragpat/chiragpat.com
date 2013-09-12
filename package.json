@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Code running chiragpat.com",
   "main": "server.js",
+  "repository": "https://github.com/chiragpat/chiragpat.com",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +11,8 @@
     "chiragpat"
   ],
   "author": "chiragpat",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~3.4.0"
+  }
 }
