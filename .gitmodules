@@ -1,0 +1,3 @@
+[submodule "Swarm"]
+	path = Swarm
+	url = git@github.com:chiragpat/Swarm.git
